@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png">
+<img align="right" width="250px" style="margin-top:-20px" src="-">
 
 </br>
 </br>
@@ -69,7 +69,7 @@
 ##
 <p align="center">
 <a href="https://github.com/jef-loppes-reis">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jef-loppes-reis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jef-loppes-reis&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
