@@ -24,10 +24,6 @@
 
 -Bio-
 
-<p align="center">
-  <img src="https://media.giphy.com/media/XIS4ARkxVah4A/giphy.gif" width="350">
-</p>
-
 ### 🖥️ Tecnologias e Ferramentas: 
 
 <img width="300px" align="right" src="(Adicionar uma foto em PNG)">
