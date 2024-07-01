@@ -26,7 +26,7 @@ Sou Desenvolvedor com uma paixão por Python e Ciencia de Dados. Atualmente, est
 
 ## Estatísticas do GitHub
 
-![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true)
+![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jef-loppes-reis&show_icons=true)
 
   
 </div>
