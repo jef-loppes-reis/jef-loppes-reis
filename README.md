@@ -14,9 +14,9 @@ Sou Desenvolvedor com uma paixão por Python e Ciencia de Dados. Atualmente, est
 
 ## Projetos Destacados
 
-- [Nome do Projeto 1](Link do repositório): Breve descrição do projeto 1.
-- [Nome do Projeto 2](Link do repositório): Breve descrição do projeto 2.
-- [Nome do Projeto 3](Link do repositório): Breve descrição do projeto 3.
+- [Match Market Ads](https://github.com/jef-loppes-reis/match-market-ads): O objetivo desse projeto, e clonar anuncios do Mercado Livre, sendo eles de lojas oficiais.
+Basicamente e identinficar se o produto e o mesmo de tal loja oficial, seguindo alguns parametros.
+- [Shape Shifter](https://github.com/jef-loppes-reis/shape-shifter): Classe para manipulacao de fotos. Como por exemplo, redimensionar imagem, verificar qualidade.
 
 ## Entre em contato
 
